@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="78" viewBox="0 0 146 78">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="78" height="78" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="21.012" height="18.386" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="_Icon_Сolor" data-name="🎨 Icon Сolor" d="M1.313,10.506H16.9l-4.771,5.726a1.313,1.313,0,0,0,2.019,1.681l6.566-7.88a1.229,1.229,0,0,0,.114-.2,1.244,1.244,0,0,0,.093-.163,1.294,1.294,0,0,0,.095-.47s0,0,0-.005,0,0,0-.005a1.294,1.294,0,0,0-.095-.47,1.244,1.244,0,0,0-.093-.163,1.229,1.229,0,0,0-.114-.2L14.143.473a1.313,1.313,0,0,0-2.019,1.681L16.9,7.88H1.313a1.313,1.313,0,1,0,0,2.627" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1061" data-name="Group 1061" transform="translate(-835 -4491)">
+    <g id="Group_442" data-name="Group 442" transform="translate(835 4491)">
+      <g id="Component_1" data-name="Component 1" clip-path="url(#clip-path)">
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="35" cy="35" r="35" transform="translate(4 4)" fill="#00b9ad"/>
+        <g id="Ellipse_14" data-name="Ellipse 14" fill="none" stroke="#384f63" stroke-width="1" opacity="0.2">
+          <circle cx="39" cy="39" r="39" stroke="none"/>
+          <circle cx="39" cy="39" r="38.5" fill="none"/>
+        </g>
+        <g id="arrow-right" transform="translate(28.573 29.807)" clip-path="url(#clip-path-2)">
+          <path id="_Icon_Сolor-2" data-name="🎨 Icon Сolor" d="M1.313,10.506H16.9l-4.771,5.726a1.313,1.313,0,0,0,2.019,1.681l6.566-7.88a1.229,1.229,0,0,0,.114-.2,1.244,1.244,0,0,0,.093-.163,1.294,1.294,0,0,0,.095-.47s0,0,0-.005,0,0,0-.005a1.294,1.294,0,0,0-.095-.47,1.244,1.244,0,0,0-.093-.163,1.229,1.229,0,0,0-.114-.2L14.143.473a1.313,1.313,0,0,0-2.019,1.681L16.9,7.88H1.313a1.313,1.313,0,1,0,0,2.627" transform="translate(0 0)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="send" transform="translate(90 46)" fill="#283e51" font-size="25" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">send</tspan></text>
+    </g>
+  </g>
+</svg>
